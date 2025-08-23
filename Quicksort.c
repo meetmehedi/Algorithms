@@ -66,24 +66,3 @@ int main()
 
     return 0;
 }
-/*
-Sample Test Case 1:
-Input:
-Enter number of elements: 6
-Enter 6 integers:
-34 7 23 32 5 62
-
-Output:
-Original array: 34 7 23 32 5 62
-Sorted array: 5 7 23 32 34 62
-
-Sample Test Case 2:
-Input:
-Enter number of elements: 5
-Enter 5 integers:
-9 1 8 2 7
-
-Output:
-Original array: 9 1 8 2 7
-Sorted array: 1 2 7 8 9
-*/
